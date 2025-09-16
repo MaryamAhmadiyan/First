@@ -8,7 +8,7 @@
 
 - [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
 
-- Developed by Maryam Ahmadiyan
+- 🙋‍♀️ Developed by Maryam Ahmadiyan
 
 - Created - 2022-11-26
 
